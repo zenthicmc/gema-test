@@ -44,5 +44,12 @@ npm run build
 npm run start
 ```
 
+## Demo Account
+```bash
+email: jagadraya377@gmail.com
+password: jagadraya
+```
+You can register your own account or use the demo account I provided above.
+
 ## Demo
 You can see the demo [here](https://gema.jagadraya.cloud/)
