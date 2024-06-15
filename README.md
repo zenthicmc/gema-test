@@ -1,4 +1,5 @@
 # Test For Gema Phala Ananta
+![Macbook-Air-gema jagadraya cloud](https://github.com/zenthicmc/gema-test/assets/43224845/ee566913-5b54-42fa-b557-80d44f19aa46)
 
 This a simple todo list app using Next.js and Chakra UI. This app is a simple todo list app that allows you to add, delete, and mark a todo as done.
 
