@@ -39,7 +39,7 @@ export async function POST(req: NextRequest) {
 	const createUser = await Users.create({ username, email, password: hashedPassword, verificationCode });
 
 	// send mail to user
-	transporter.sendMail({
+	await transporter.sendMail({
     from: process.env.SMTP_USER,
     to: email,
     subject: "Account Verification",
